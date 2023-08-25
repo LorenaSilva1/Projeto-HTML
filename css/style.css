@@ -1,0 +1,31 @@
+nav ul {
+    list-style: none;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+  }
+  *{
+    background-color: rgb(73, 49, 49);
+  }
+
+#img1{
+    display: block;
+    margin: auto;
+}
+
+#img2{
+    display: block;
+    margin: auto;
+}
+
+#img3{
+    display: block;
+    margin: auto;
+}
