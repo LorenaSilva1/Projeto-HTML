@@ -1,20 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Tulpen+One&display=swap');
 nav ul {
     list-style: none;
-    text-align: center;
+    
   }
   
   nav ul li {
     display: inline-block;
     margin-left: 20px;
+ 
   }
+  
   
   nav ul li a {
     text-decoration: none;
   }
   *{
-    background-color: rgb(73, 49, 49);
+    background-color: rgb(0, 0, 0);
+    color: rgb(207, 201, 201);
+    text-align: center;
+    
   }
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Tulpen One', cursive;
+  font-size: 25px;
+  text-align: center;
 
+}
 #img1{
     display: block;
     margin: auto;
